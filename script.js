@@ -1,11 +1,39 @@
 function toggleSidebar() {
-    const sidebar = document.getElementById('sidebar');
-    const body = document.body;
+  const sidebar = document.getElementById('sidebar');
+  const body = document.body;
+  const overlay = document.getElementById('overlay');
+
+  const isOpen = sidebar.classList.contains('open');
+
+  sidebar.classList.toggle('open');
+  body.classList.toggle('sidebar-open');
+
+  // 오버레이 상태 동기화
+  overlay.style.display = isOpen ? 'none' : 'block';
   
-    sidebar.classList.toggle('open');
-    body.classList.toggle('sidebar-open');
-  }
-  
+}
+function showIntroCard() {
+  // 텍스트 설정
+  kanjiEl.textContent = "JLPT 단어장";
+  meaningEl.textContent = "메뉴를 통해 급수를 선택해주세요"; // ✅ 안내 문구
+
+  // 뜻 숨기고, 단어(JLPT) 보이게
+  kanjiEl.style.display = 'block';
+  meaningEl.style.display = 'none';
+
+  // 버튼 숨기기
+  document.querySelector('.buttons').style.display = 'none';
+
+  // 카드에 페이드 인 애니메이션 적용
+  cardInner.classList.remove('fade-in');     // 혹시 중복 방지
+  void cardInner.offsetWidth;                // 강제로 리플로우
+  cardInner.classList.add('fade-in');
+}
+window.addEventListener('DOMContentLoaded', () => {
+  showIntroCard();
+});
+
+
   // 기본 요소
   const levelDisplay = document.querySelector('.level');
   const progressDisplay = document.querySelector('.progress');
@@ -25,6 +53,7 @@ function toggleSidebar() {
   let completedCount = 0;
   let mode = 'normal'; // 'normal' 또는 'review'
   let reviewRound = false; // 복습 중 '모름'을 또 누른 경우
+  let isFirstWord = true; // 단어를 처음 로드했는지 여부
  // 배열을 무작위로 섞는 함수 (Fisher–Yates 알고리즘)
 function shuffle(array) {
     const result = [...array]; // 원본 배열 복사
@@ -50,9 +79,11 @@ function shuffle(array) {
           completedCount = parsed.completedCount;
           unknownWords = parsed.unknownWords;
           mode = parsed.mode;
-          levelDisplay.textContent = level;
           isFlipped = false;
-          updateWord();
+          levelDisplay.textContent = level;
+           instantlyResetCard();  // 💡 카드 상태 초기화
+           updateWord();
+           updateProgress(); 
           return;
         }
       }
@@ -80,12 +111,43 @@ function shuffle(array) {
   function updateWord() {
     if (!currentWords[currentIndex]) return;
     const word = currentWords[currentIndex];
+  
     kanjiEl.textContent = word.word;
-    meaningEl.textContent = `${word.meaning} (${word.reading})`;
-    meaningEl.style.display = 'block';
-    kanjiEl.style.display = 'none';
+    meaningEl.innerHTML = `
+  <div class="reading">${word.reading}</div>
+  <div class="definition">${word.meaning}</div>
+`;
+
+  
+    kanjiEl.style.display = 'block';
+    meaningEl.style.display = 'none';
+  
+    const buttonGroup = document.querySelector('.buttons');
+    buttonGroup.style.display = 'flex';
+  
+    if (isFirstWord) {
+      // 카드 페이드인
+      cardInner.classList.remove('fade-in');
+      void cardInner.offsetWidth;
+      cardInner.classList.add('fade-in');
+  
+      // 버튼 페이드업
+      buttonGroup.classList.remove('fade-up');
+      void buttonGroup.offsetWidth;
+      buttonGroup.classList.add('fade-up');
+  
+      isFirstWord = false; // 이후부터는 모두 애니메이션 없이
+    } else {
+      // 애니메이션 제거
+      cardInner.classList.remove('fade-in');
+      buttonGroup.classList.remove('fade-up');
+    }
+    buttonGroup.style.display = 'flex'; // ✅ 다시 보이게!
+  
     updateProgress();
   }
+  
+  
   
   
   function updateProgress() {
@@ -184,19 +246,38 @@ wordCard.addEventListener('click', () => {
     }
   
     updateWord();
+    kanjiEl.style.display = 'none';
+    meaningEl.style.display = 'block';
     saveProgress();
 
   }
   
   // 종료 메시지 출력
   function showCompleteMessage() {
-    kanjiEl.textContent = "🎉 축하합니다!";
+    // 카드 텍스트
+    kanjiEl.innerHTML = `<div class="complete-message">🎉 축하합니다!</div>`;
     meaningEl.textContent = "한 회독을 모두 완료했습니다.";
-    wordCard.classList.remove('flipped');
-    document.querySelector('.buttons').innerHTML = `
-      <button onclick="location.reload()">닫기</button>
-    `;
+  
+
+const buttonGroup = document.querySelector('.buttons');
+if (buttonGroup) {
+  buttonGroup.style.display = 'none'; // ❌ innerHTML = '' 하지 말고
+}
+    // 빵빠레 연출 (CSS 방식)
+    const container = document.querySelector('.confetti-container');
+    for (let i = 0; i < 20; i++) {
+      const confetti = document.createElement('div');
+      confetti.classList.add('confetti');
+      confetti.style.left = `${Math.random() * 100}%`;
+      confetti.style.animationDelay = `${Math.random() * 0.3}s`;
+      container.appendChild(confetti);
+  
+      // 자동 제거
+      setTimeout(() => container.removeChild(confetti), 1500);
+    }
   }
+  
+  
   function instantlyResetCard() {
     wordCard.classList.add('no-transition');
   
@@ -218,5 +299,10 @@ wordCard.addEventListener('click', () => {
   };
   localStorage.setItem('jlpt-progress', JSON.stringify(state));
 }
+function toggleDarkMode() {
+  document.body.classList.toggle('light');
 
+  // 나중에 저장 기능도 추가 가능:
+  // localStorage.setItem('theme', document.body.classList.contains('light') ? 'light' : 'dark');
+}
   

@@ -8,7 +8,7 @@
 <body>
   <header>
     <div class="level">JLPT</div>
-    <div class="progress">JLPT 단어장</div>
+    <div class="progress"></div>
     <div class="menu">
       <button onclick="toggleSidebar()">  메뉴  </button>
     </div>
@@ -17,8 +17,6 @@
   <!-- 평소 보이지 않는 웹색 슬라이드 메뉴 -->
   <div id="sidebar">
     <div class="sidebar-header">
-      <span>메뉴</span>
-      <button onclick="toggleSidebar()">✖</button>
     </div>
     <ul>
       <li>JLPT N1</li>
@@ -48,7 +46,8 @@
     <button id="next-button">다음</button>
   </div>
 </div>
-
+<div id="overlay" onclick="toggleSidebar()"></div>
+<div class="confetti-container"></div>
   <script src="script.js"></script>
 </body>
 </html>
