@@ -1,0 +1,268 @@
+/* === 기본 리셋 === */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #ffffff;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  header {
+    width: 100%;
+    max-width: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #000;
+    color: #fff;
+    border-radius: 0;
+  }
+  
+  .level {
+    font-weight: bold;
+  }
+  
+  .progress {
+    font-size: 1rem;
+  }
+  
+  .menu-button {
+    background: #fff;
+    color: #000;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  #sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 250px;
+    height: 100%;
+    background: #000;
+    color: #ffffff;
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+    z-index: 2000;
+    padding: 1rem;
+  }
+  
+  #sidebar.open {
+    transform: translateX(0);
+  }
+  
+  #sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #sidebar ul li {
+    padding: 1rem;
+    cursor: pointer;
+    background: #222;
+    margin-bottom: 0.5rem;
+    border-radius: 6px;
+    text-align: center;
+    transition: transform 0.08s ease, background-color 0.1s ease;
+  }
+  
+  #sidebar ul li:active {
+    transform: scale(0.985);
+    background-color: #333;
+  }
+  
+  #overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 1000;
+    display: none;
+  }
+  
+  #word-card {
+    width: 100%;
+    max-width: 90vw;
+    padding: 1rem;
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 6rem;
+    align-items: center;
+  }
+  
+  .card-inner {
+    width: 100%;
+    height: 50vh;
+    background: #fff;
+    border: 2px solid #000;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+    transition: transform 0.08s ease;
+  }
+  
+  .card-inner:active {
+    transform: scale(0.99);
+  }
+  
+  .kanji {
+    font-size: clamp(3.3rem, 9vw, 5rem);
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+  
+  .meaning .reading {
+    font-size: clamp(2rem, 5vw, 2rem);
+    color: #777;
+    margin-bottom: 0.5rem;
+  }
+  
+  .meaning .definition {
+    font-size: clamp(2.5rem, 6vw, 2.5rem);
+    font-weight: bold;
+  }
+  
+  .buttons.fixed-bottom {
+    position: fixed;
+    bottom: 5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90vw;
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    z-index: 900;
+  
+    opacity: 0;
+    visibility: hidden;
+    transform-origin: center center;
+    transition:
+      opacity 0.3s ease,
+      visibility 0.3s ease;
+  }
+  
+  .buttons.fixed-bottom.active {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .buttons button {
+    flex: 1;
+    padding: 1rem;
+    font-size: 1.4rem;
+    border: none;
+    border-radius: 8px;
+    background: #000;
+    color: #fff;
+    font-weight: 600;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    transition: transform 0.08s ease;
+  }
+  
+  .buttons button:active {
+    transform: scale(0.985);
+    box-shadow: none;
+  }
+  
+  .confetti-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    overflow: visible;
+    pointer-events: none;
+    z-index: 9999;
+  }
+  
+  .confetti {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    opacity: 0.8;
+    animation: fall 1s ease-out forwards;
+  }
+  
+  .confetti:nth-child(3n) { background-color: yellow; }
+  .confetti:nth-child(4n) { background-color: blue; }
+  .confetti:nth-child(5n) { background-color: green; }
+  .confetti:nth-child(6n) { background-color: orange; }
+  
+  @keyframes fall {
+    0% {
+      transform: translateY(0) rotate(0deg);
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(500px) rotate(360deg);
+      opacity: 0;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    header, #word-card {
+      max-width: 600px;
+    }
+    .card-inner {
+      height: 420px;
+    }
+    .buttons.fixed-bottom {
+      width: 500px;
+    }
+  }
+  
+  .fade-in {
+    animation: fadeIn 0.7s ease-in-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  .fade-up {
+    animation: fadeUp 0.6s ease-out forwards;
+  }
+  
+  @keyframes fadeUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }

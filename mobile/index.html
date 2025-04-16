@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JLPT</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="level">JLPT</div>
+    <div class="progress">0 / 0</div>
+    <button class="menu-button" onclick="toggleSidebar()">급수</button>
+  </header>
+
+  <div id="sidebar">
+    <ul>
+      <li data-level="N1">JLPT N1</li>
+      <li data-level="N2">JLPT N2</li>
+      <li data-level="N3">JLPT N3</li>
+      <li data-level="N4">JLPT N4</li>
+      <li data-level="N5">JLPT N5</li>
+    </ul>
+  </div>
+
+  <div id="overlay" onclick="toggleSidebar()"></div>
+
+  <main id="word-card">
+    <div class="card-inner">
+      <div class="kanji">JLPT</div>
+      <div class="meaning">
+        <div class="reading">급수를 선택하세요</div>
+        <div class="definition"></div>
+      </div>
+    </div>
+  </main>
+
+  <div class="buttons fixed-bottom">
+    <button id="unknown-button">모름</button>
+    <button id="next-button">다음</button>
+  </div>
+
+  <div class="confetti-container"></div>
+  <script src="script.js"></script>
+</body>
+</html>

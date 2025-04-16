@@ -1,0 +1,2867 @@
+[
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning": "사이. 동안 "
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "(-に+) 만나다 "
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning": "푸르다. 파랗다 "
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning": "붉다. 빨갛다 "
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning": "밝다. 환하다. 명랑하다 "
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "가을 "
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning": "열리다 "
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning": "열다 "
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "아침 "
+  },
+  {
+    "word": "朝御飯",
+    "reading": "あさごはん",
+    "meaning": "아침 식사 "
+  },
+  {
+    "word": "あさって",
+    "reading": "あさって",
+    "meaning": "모레 "
+  },
+  {
+    "word": "足/脚",
+    "reading": "あし",
+    "meaning": "발. 다리 "
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "내일 "
+  },
+  {
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "저기 "
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "놀다 "
+  },
+  {
+    "word": "暖かい/温かい",
+    "reading": "あたたかい",
+    "meaning": "따뜻하다 "
+  },
+  {
+    "word": "頭",
+    "reading": "あたま",
+    "meaning": "머리 "
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning": "새롭다 "
+  },
+  {
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning": "저쪽 "
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning": "덥다 "
+  },
+  {
+    "word": "後",
+    "reading": "あと",
+    "meaning": "(시간적으로)후. 나중 "
+  },
+  {
+    "word": "あなた",
+    "reading": "あなた",
+    "meaning": "당신 "
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "meaning": "(나의)형. 오빠 "
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "meaning": "(나의)누나. 언니 "
+  },
+  {
+    "word": "あの",
+    "reading": "あの",
+    "meaning": "저 "
+  },
+  {
+    "word": "アパート",
+    "reading": "アパート",
+    "meaning": "아파트 "
+  },
+  {
+    "word": "浴びる",
+    "reading": "あびる",
+    "meaning": "뒤집어쓰다. (샤워를) 하다 "
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning": "위험하다 "
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "meaning": "달다. 달콤하다 "
+  },
+  {
+    "word": "あまり",
+    "reading": "あまり",
+    "meaning": "별로. 그다지(+부정문) "
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "비 "
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "씻다 "
+  },
+  {
+    "word": "ありがとうございます",
+    "reading": "ありがとうございます",
+    "meaning": "감사합니다 "
+  },
+  {
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "있다 "
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning": "걷다 "
+  },
+  {
+    "word": "あれ",
+    "reading": "あれ",
+    "meaning": "저것 "
+  },
+  {
+    "word": "あんな",
+    "reading": "あんな",
+    "meaning": "저런 "
+  },
+  {
+    "word": "いい",
+    "reading": "いい",
+    "meaning": "좋다 "
+  },
+  {
+    "word": "いいえ",
+    "reading": "いいえ",
+    "meaning": "아니오 "
+  },
+  {
+    "word": "言う",
+    "reading": "いう/ゆう",
+    "meaning": "말하다 "
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "집 "
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "meaning": "가다 "
+  },
+  {
+    "word": "いくつ",
+    "reading": "いくつ",
+    "meaning": "몇. 몇개. 몇살 "
+  },
+  {
+    "word": "いくら",
+    "reading": "いくら",
+    "meaning": "얼마 "
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning": "의사 "
+  },
+  {
+    "word": "椅子",
+    "reading": "いす",
+    "meaning": "의자 "
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "바쁘다 "
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning": "아프다 "
+  },
+  {
+    "word": "いただきます",
+    "reading": "いただきます",
+    "meaning": "잘 먹겠습니다 "
+  },
+  {
+    "word": "一",
+    "reading": "いち",
+    "meaning": "일. 하나 "
+  },
+  {
+    "word": "一日",
+    "reading": "いちにち",
+    "meaning": "하루 (기간) "
+  },
+  {
+    "word": "一番",
+    "reading": "いちばん",
+    "meaning": "일번. 첫째. 가장. 제일 "
+  },
+  {
+    "word": "いつ",
+    "reading": "いつ",
+    "meaning": "언제 "
+  },
+  {
+    "word": "五日",
+    "reading": "いつか",
+    "meaning": "5일 "
+  },
+  {
+    "word": "一週間",
+    "reading": "いっしゅうかん",
+    "meaning": "일주일 "
+  },
+  {
+    "word": "いっしょに",
+    "reading": "いっしょに",
+    "meaning": "같이. 함께 "
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "meaning": "다섯 개 "
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning": "언제나.늘 "
+  },
+  {
+    "word": "犬",
+    "reading": "いぬ",
+    "meaning": "개 "
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "meaning": "지금 "
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "의미. 뜻 "
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "여동생 "
+  },
+  {
+    "word": "嫌な",
+    "reading": "いやな",
+    "meaning": "싫은 "
+  },
+  {
+    "word": "いらっしゃいませ",
+    "reading": "いらっしゃいませ",
+    "meaning": "어서 오십시오 "
+  },
+  {
+    "word": "入口",
+    "reading": "いりぐち",
+    "meaning": "입구 "
+  },
+  {
+    "word": "いる",
+    "reading": "いる",
+    "meaning": "(사람이나 동물이) 있다 "
+  },
+  {
+    "word": "要る",
+    "reading": "いる",
+    "meaning": "(1G) 필요하다 "
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "넣다 "
+  },
+  {
+    "word": "色",
+    "reading": "いろ",
+    "meaning": "색 "
+  },
+  {
+    "word": "色々",
+    "reading": "いろいろ",
+    "meaning": "여러 가지로 "
+  },
+  {
+    "word": "色々な",
+    "reading": "いろいろな",
+    "meaning": "여러가지의 "
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "meaning": "위 "
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning": "뒤. 뒤쪽 "
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaning": "노래 "
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning": "노래 부르다 "
+  },
+  {
+    "word": "うどん",
+    "reading": "うどん",
+    "meaning": "우동 "
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaning": "태어나다 "
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "meaning": "바다 "
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning": "팔다 "
+  },
+  {
+    "word": "うるさい",
+    "reading": "うるさい",
+    "meaning": "시끄럽다 "
+  },
+  {
+    "word": "上着",
+    "reading": "うわぎ",
+    "meaning": "겉옷. 내복 위에 입는 옷 "
+  },
+  {
+    "word": "絵",
+    "reading": "え",
+    "meaning": "그림 "
+  },
+  {
+    "word": "英語",
+    "reading": "えいご",
+    "meaning": "영어 "
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "역 "
+  },
+  {
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "meaning": "엘리베이터. 승강기 "
+  },
+  {
+    "word": "-円",
+    "reading": "えん",
+    "meaning": "엔(일본 화폐 단위) "
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "연필 "
+  },
+  {
+    "word": "おいしい",
+    "reading": "おいしい",
+    "meaning": "맛있다 "
+  },
+  {
+    "word": "多い",
+    "reading": "おおい",
+    "meaning": "많다 "
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning": "크다 "
+  },
+  {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "meaning": "어머니 "
+  },
+  {
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaning": "과자 "
+  },
+  {
+    "word": "お金",
+    "reading": "おかね",
+    "meaning": "돈 "
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning": "일어나다 "
+  },
+  {
+    "word": "置く",
+    "reading": "おく",
+    "meaning": "두다. 놓다 "
+  },
+  {
+    "word": "奥さん",
+    "reading": "おくさん",
+    "meaning": "부인. 아주머니 "
+  },
+  {
+    "word": "お酒",
+    "reading": "おさけ",
+    "meaning": "술 "
+  },
+  {
+    "word": "おじいさん",
+    "reading": "おじいさん",
+    "meaning": "할아버지 "
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning": "가르치다 "
+  },
+  {
+    "word": "おじさん",
+    "reading": "おじさん",
+    "meaning": "아저씨 "
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meaning": "밀다. 누르다 "
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning": "늦다. 느리다 "
+  },
+  {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning": "차 "
+  },
+  {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "meaning": "아버지 "
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning": "남동생 "
+  },
+  {
+    "word": "男",
+    "reading": "おとこ",
+    "meaning": "남자 "
+  },
+  {
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "meaning": "남자 아이 "
+  },
+  {
+    "word": "おととい",
+    "reading": "おととい",
+    "meaning": "그저께 "
+  },
+  {
+    "word": "おととし",
+    "reading": "おととし",
+    "meaning": "재작년 "
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "meaning": "어른 "
+  },
+  {
+    "word": "お腹",
+    "reading": "おなか",
+    "meaning": "배 "
+  },
+  {
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaning": "같은. 동일한 "
+  },
+  {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "형. 오빠 "
+  },
+  {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "누나. 언니 "
+  },
+  {
+    "word": "おねがいします",
+    "reading": "おねがいします",
+    "meaning": "부탁합니다 "
+  },
+  {
+    "word": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "할머니 "
+  },
+  {
+    "word": "おばさん",
+    "reading": "おばさん",
+    "meaning": "아주머니 "
+  },
+  {
+    "word": "おはようございます",
+    "reading": "おはようございます",
+    "meaning": "안녕하세요(아침인사) "
+  },
+  {
+    "word": "お風呂",
+    "reading": "おふろ",
+    "meaning": "목욕. 목욕탕 "
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "외우다. 기억하다 "
+  },
+  {
+    "word": "重い",
+    "reading": "おもい",
+    "meaning": "무겁다 "
+  },
+  {
+    "word": "思う",
+    "reading": "おもう",
+    "meaning": "생각하다. 헤아리다. 느끼다 "
+  },
+  {
+    "word": "おもしろい",
+    "reading": "おもしろい",
+    "meaning": "재미있다. 우습다 "
+  },
+  {
+    "word": "おやすみなさい",
+    "reading": "おやすみなさい",
+    "meaning": "안녕히 주무세요 "
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "헤엄치다. 수영을 하다 "
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "(차에서) 내리다 "
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "끝나다. 마치다 "
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "음악 "
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "meaning": "여자 "
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaning": "여자 아이 "
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "meaning": "외국 "
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "회사 "
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "계단 "
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning": "물건을 삼. 쇼핑. 장보기 "
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "사다. 구입하다 "
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "돌려주다 "
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "(1G) 돌아가다. 돌아오다 "
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "meaning": "얼굴 "
+  },
+  {
+    "word": "かかる",
+    "reading": "かかる",
+    "meaning": "(시간이) 걸리다. (돈이) 들다 "
+  },
+  {
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning": "열쇠 "
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "쓰다. 적다 "
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "학생. (특히 대학생) "
+  },
+  {
+    "word": "-か月",
+    "reading": "かげつ",
+    "meaning": "-개월 "
+  },
+  {
+    "word": "かける",
+    "reading": "かける",
+    "meaning": "(안경을) 쓰다. 끼다 "
+  },
+  {
+    "word": "傘",
+    "reading": "かさ",
+    "meaning": "우산 "
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "빌려주다 "
+  },
+  {
+    "word": "風",
+    "reading": "かぜ",
+    "meaning": "바람 "
+  },
+  {
+    "word": "風邪",
+    "reading": "かぜ",
+    "meaning": "감기 "
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning": "가족 "
+  },
+  {
+    "word": "-月",
+    "reading": "がつ",
+    "meaning": "-월 "
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "학교 "
+  },
+  {
+    "word": "角",
+    "reading": "かど",
+    "meaning": "모난 귀퉁이. 구석. 길모퉁이 "
+  },
+  {
+    "word": "鞄",
+    "reading": "かばん",
+    "meaning": "가방 "
+  },
+  {
+    "word": "花瓶",
+    "reading": "かびん",
+    "meaning": "화병. 꽃병 "
+  },
+  {
+    "word": "かぶる",
+    "reading": "かぶる",
+    "meaning": "(모자를) 쓰다 "
+  },
+  {
+    "word": "紙",
+    "reading": "かみ",
+    "meaning": "종이 "
+  },
+  {
+    "word": "カメラ",
+    "reading": "カメラ",
+    "meaning": "카메라 "
+  },
+  {
+    "word": "火曜日",
+    "reading": "かようび",
+    "meaning": "화요일 "
+  },
+  {
+    "word": "辛い",
+    "reading": "からい",
+    "meaning": "맵다 "
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "meaning": "몸 "
+  },
+  {
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "빌리다. 꾸다 "
+  },
+  {
+    "word": "軽い",
+    "reading": "かるい",
+    "meaning": "가볍다 "
+  },
+  {
+    "word": "カレンダー",
+    "reading": "カレンダー",
+    "meaning": "달력 "
+  },
+  {
+    "word": "川",
+    "reading": "かわ",
+    "meaning": "강 "
+  },
+  {
+    "word": "かわいい",
+    "reading": "かわいい",
+    "meaning": "귀엽다 "
+  },
+  {
+    "word": "-間",
+    "reading": "かん",
+    "meaning": "-간 "
+  },
+  {
+    "word": "漢字",
+    "reading": "かんじ",
+    "meaning": "한자 "
+  },
+  {
+    "word": "木",
+    "reading": "き",
+    "meaning": "나무 "
+  },
+  {
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meaning": "노랗다 "
+  },
+  {
+    "word": "消える",
+    "reading": "きえる",
+    "meaning": "꺼지다. 사라지다. 지워지다 "
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "듣다. 물어보다 "
+  },
+  {
+    "word": "北",
+    "reading": "きた",
+    "meaning": "북쪽 "
+  },
+  {
+    "word": "ギター",
+    "reading": "ギター",
+    "meaning": "기타 "
+  },
+  {
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning": "더럽다 "
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaning": "찻집. 다방 "
+  },
+  {
+    "word": "切手",
+    "reading": "きって",
+    "meaning": "우표 "
+  },
+  {
+    "word": "切符",
+    "reading": "きっぷ",
+    "meaning": "표 "
+  },
+  {
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning": "어제 "
+  },
+  {
+    "word": "九",
+    "reading": "きゅう",
+    "meaning": "구. 아홉 "
+  },
+  {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "쇠고기 "
+  },
+  {
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning": "우유 "
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "오늘 "
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning": "교실 "
+  },
+  {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "형제 "
+  },
+  {
+    "word": "去年",
+    "reading": "きょねん",
+    "meaning": "작년 "
+  },
+  {
+    "word": "嫌いな",
+    "reading": "きらいな",
+    "meaning": "싫어하는 "
+  },
+  {
+    "word": "着る",
+    "reading": "きる",
+    "meaning": "입다 "
+  },
+  {
+    "word": "きれいな",
+    "reading": "きれいな",
+    "meaning": "예쁜. 깨끗한 "
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "은행 "
+  },
+  {
+    "word": "金曜日",
+    "reading": "きんようび",
+    "meaning": "화요일 "
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "약 "
+  },
+  {
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning": "과일 "
+  },
+  {
+    "word": "口",
+    "reading": "くち",
+    "meaning": "입 "
+  },
+  {
+    "word": "靴",
+    "reading": "くつ",
+    "meaning": "신발. 구두 "
+  },
+  {
+    "word": "靴下",
+    "reading": "くつした",
+    "meaning": "양말 "
+  },
+  {
+    "word": "国",
+    "reading": "くに",
+    "meaning": "나라 "
+  },
+  {
+    "word": "-*",
+    "reading": "くらい/ぐらい",
+    "meaning": "-정도. -만큼 "
+  },
+  {
+    "word": "暗い",
+    "reading": "くらい",
+    "meaning": "어둡다 "
+  },
+  {
+    "word": "クラス",
+    "reading": "クラス",
+    "meaning": "클래스. 반. 학급 "
+  },
+  {
+    "word": "来る",
+    "reading": "くる",
+    "meaning": "오다 "
+  },
+  {
+    "word": "車",
+    "reading": "くるま",
+    "meaning": "수레의 총칭. 차 "
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning": "검다. 까맣다 "
+  },
+  {
+    "word": "今朝",
+    "reading": "けさ",
+    "meaning": "오늘 아침 "
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "끄다. 지우다 "
+  },
+  {
+    "word": "結婚",
+    "reading": "けっこん",
+    "meaning": "결혼 "
+  },
+  {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "meaning": "화요일 "
+  },
+  {
+    "word": "元気な",
+    "reading": "げんきな",
+    "meaning": "건강한. 잘 있는 "
+  },
+  {
+    "word": "五",
+    "reading": "ご",
+    "meaning": "오. 다섯 "
+  },
+  {
+    "word": "-語",
+    "reading": "ご",
+    "meaning": "-어(언어) "
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaning": "공원 "
+  },
+  {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meaning": "홍차 "
+  },
+  {
+    "word": "交番",
+    "reading": "こうばん",
+    "meaning": "파출소 "
+  },
+  {
+    "word": "声",
+    "reading": "こえ",
+    "meaning": "소리 "
+  },
+  {
+    "word": "コート",
+    "reading": "コート",
+    "meaning": "코트 "
+  },
+  {
+    "word": "コーヒー",
+    "reading": "コーヒー",
+    "meaning": "커피 "
+  },
+  {
+    "word": "ここ",
+    "reading": "ここ",
+    "meaning": "여기 "
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "meaning": "오후 "
+  },
+  {
+    "word": "九日",
+    "reading": "ここのか",
+    "meaning": "9일 "
+  },
+  {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "meaning": "아홉 개 "
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning": "오전 "
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "대답하다 "
+  },
+  {
+    "word": "ごちそうさまでした",
+    "reading": "ごちそうさまでした",
+    "meaning": "잘 먹었습니다 "
+  },
+  {
+    "word": "こちら",
+    "reading": "こちら",
+    "meaning": "이쪽 "
+  },
+  {
+    "word": "コップ",
+    "reading": "コップ",
+    "meaning": "컵 "
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "meaning": "올해 "
+  },
+  {
+    "word": "子供",
+    "reading": "こども",
+    "meaning": "아이. 자식 "
+  },
+  {
+    "word": "この",
+    "reading": "この",
+    "meaning": "이 "
+  },
+  {
+    "word": "御飯",
+    "reading": "ごはん",
+    "meaning": "밥 "
+  },
+  {
+    "word": "コピー",
+    "reading": "コピー",
+    "meaning": "복사 "
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "곤란하다 "
+  },
+  {
+    "word": "これ",
+    "reading": "これ",
+    "meaning": "이것 "
+  },
+  {
+    "word": "-頃",
+    "reading": "ごろ",
+    "meaning": "-경. -쯤 "
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "meaning": "이번달 "
+  },
+  {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "meaning": "이번주 "
+  },
+  {
+    "word": "こんな",
+    "reading": "こんな",
+    "meaning": "이런 "
+  },
+  {
+    "word": "こんにちは",
+    "reading": "こんにちは",
+    "meaning": "안녕하세요(낮인사) "
+  },
+  {
+    "word": "今晩",
+    "reading": "こんばん",
+    "meaning": "오늘 밤 "
+  },
+  {
+    "word": "こんばんは",
+    "reading": "こんばんは",
+    "meaning": "안녕하세요(저녁인사) "
+  },
+  {
+    "word": "-歳",
+    "reading": "さい",
+    "meaning": "-살. -세 "
+  },
+  {
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning": "지갑 "
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "물고기. 생선 "
+  },
+  {
+    "word": "先",
+    "reading": "さき",
+    "meaning": "앞부분. 선두. 먼저 "
+  },
+  {
+    "word": "咲く",
+    "reading": "さく",
+    "meaning": "(꽃이) 피다 "
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaning": "작문 "
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning": "잡지 "
+  },
+  {
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning": "설탕 "
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning": "춥다 "
+  },
+  {
+    "word": "さようなら",
+    "reading": "さようなら",
+    "meaning": "안녕히 가세요. 안녕히 계세요 "
+  },
+  {
+    "word": "-*",
+    "reading": "さん",
+    "meaning": "-씨 "
+  },
+  {
+    "word": "三",
+    "reading": "さん",
+    "meaning": "삼. 셋 "
+  },
+  {
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning": "산책 "
+  },
+  {
+    "word": "四",
+    "reading": "し",
+    "meaning": "사. 넷 "
+  },
+  {
+    "word": "-時",
+    "reading": "じ",
+    "meaning": "-시 "
+  },
+  {
+    "word": "塩",
+    "reading": "しお",
+    "meaning": "소금 "
+  },
+  {
+    "word": "-*",
+    "reading": "しか",
+    "meaning": "-밖에(+부정문) "
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "시간 "
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "일. 업무 "
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "사전 "
+  },
+  {
+    "word": "静かな",
+    "reading": "しずかな",
+    "meaning": "조용한 "
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "meaning": "아래. 밑 "
+  },
+  {
+    "word": "七",
+    "reading": "しち",
+    "meaning": "칠. 일곱 "
+  },
+  {
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meaning": "죽다 "
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning": "닫히다 "
+  },
+  {
+    "word": "締める",
+    "reading": "しめる",
+    "meaning": "(넥타이를) 매다. 조이다. 조르다 "
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning": "닫다 "
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "사진 "
+  },
+  {
+    "word": "シャツ",
+    "reading": "シャツ",
+    "meaning": "셔츠 "
+  },
+  {
+    "word": "シャワー",
+    "reading": "シャワー",
+    "meaning": "샤워 "
+  },
+  {
+    "word": "十",
+    "reading": "じゅう",
+    "meaning": "십. 열 "
+  },
+  {
+    "word": "-週間",
+    "reading": "しゅうかん",
+    "meaning": "-주일. -주간 "
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "숙제 "
+  },
+  {
+    "word": "上手な",
+    "reading": "じょうずな",
+    "meaning": "잘하는. 능숙한 "
+  },
+  {
+    "word": "丈夫な",
+    "reading": "じょうぶな",
+    "meaning": "튼튼한 "
+  },
+  {
+    "word": "食堂",
+    "reading": "しょくどう",
+    "meaning": "식당 "
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "meaning": "(1G) (지식으로) 알다 "
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning": "희다. 하얗다 "
+  },
+  {
+    "word": "-人",
+    "reading": "じん",
+    "meaning": "-인. -사람 "
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning": "신문 "
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "meaning": "화요일 "
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "meaning": "(담배를) 피우다. 들이마시다. 빨아들이다 "
+  },
+  {
+    "word": "スカート",
+    "reading": "スカート",
+    "meaning": "치마 "
+  },
+  {
+    "word": "好きな",
+    "reading": "すきな",
+    "meaning": "좋아하는 "
+  },
+  {
+    "word": "すぐ",
+    "reading": "すぐ",
+    "meaning": "곧. 바로 "
+  },
+  {
+    "word": "少ない",
+    "reading": "すくない",
+    "meaning": "적다 "
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "meaning": "조금. 약간. 좀 "
+  },
+  {
+    "word": "涼しい",
+    "reading": "すずしい",
+    "meaning": "시원하다 "
+  },
+  {
+    "word": "ストーブ",
+    "reading": "ストーブ",
+    "meaning": "스토브. 난로 "
+  },
+  {
+    "word": "スプーン",
+    "reading": "スプーン",
+    "meaning": "스푼. 숟가락 "
+  },
+  {
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "meaning": "스포츠 "
+  },
+  {
+    "word": "ズボン",
+    "reading": "ズボン",
+    "meaning": "바지 "
+  },
+  {
+    "word": "すみません",
+    "reading": "すみません",
+    "meaning": "죄송합니다 "
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning": "살다 "
+  },
+  {
+    "word": "する",
+    "reading": "する",
+    "meaning": "하다 "
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning": "앉다 "
+  },
+  {
+    "word": "背",
+    "reading": "せ",
+    "meaning": "키 "
+  },
+  {
+    "word": "生徒",
+    "reading": "せいと",
+    "meaning": "(초중고등)학생 "
+  },
+  {
+    "word": "セーター",
+    "reading": "セーター",
+    "meaning": "스웨터 "
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning": "좁다 "
+  },
+  {
+    "word": "ゼロ",
+    "reading": "ゼロ",
+    "meaning": "제로. 영 "
+  },
+  {
+    "word": "千",
+    "reading": "せん",
+    "meaning": "천 "
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "meaning": "지난달 "
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meaning": "지난주 "
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "선생. 스승 "
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "meaning": "거기 "
+  },
+  {
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning": "그쪽 "
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning": "밖. 바깥. 겉 "
+  },
+  {
+    "word": "その",
+    "reading": "その",
+    "meaning": "그 "
+  },
+  {
+    "word": "そば",
+    "reading": "そば",
+    "meaning": "곁. 옆 "
+  },
+  {
+    "word": "そば",
+    "reading": "そば",
+    "meaning": "메밀 국수 "
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "meaning": "하늘 "
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "meaning": "그것 "
+  },
+  {
+    "word": "そんな",
+    "reading": "そんな",
+    "meaning": "그런 "
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "대학 "
+  },
+  {
+    "word": "大丈夫な",
+    "reading": "だいじょうぶな",
+    "meaning": "괜찮은 "
+  },
+  {
+    "word": "大好きな",
+    "reading": "だいすきな",
+    "meaning": "매우 좋아하는 "
+  },
+  {
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaning": "부엌 "
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning": "매우. 대단히 "
+  },
+  {
+    "word": "大変な",
+    "reading": "たいへんな",
+    "meaning": "힘든. 큰일의 "
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "높다. 비싸다 "
+  },
+  {
+    "word": "たくさん",
+    "reading": "たくさん",
+    "meaning": "많이 "
+  },
+  {
+    "word": "タクシー",
+    "reading": "タクシー",
+    "meaning": "택시 "
+  },
+  {
+    "word": "-*",
+    "reading": "だけ",
+    "meaning": "-만. -만큼 "
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "meaning": "내다. 꺼내다. 내놓다 "
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning": "서다 "
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "건물 "
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "즐겁다 "
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning": "음식물. 먹을 것 "
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning": "먹다 "
+  },
+  {
+    "word": "卵",
+    "reading": "たまご",
+    "meaning": "알. 달걀. 계란 "
+  },
+  {
+    "word": "誰",
+    "reading": "だれ",
+    "meaning": "누구 "
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "생일 "
+  },
+  {
+    "word": "段々",
+    "reading": "だんだん",
+    "meaning": "점점. 차차 "
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning": "작다 "
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "meaning": "가깝다 "
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning": "가까운 곳. 근처 "
+  },
+  {
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "지하철 "
+  },
+  {
+    "word": "父",
+    "reading": "ちち",
+    "meaning": "(나의)아버지 "
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "조금. 좀. 잠깐 "
+  },
+  {
+    "word": "一日",
+    "reading": "ついたち",
+    "meaning": "1일 (날짜) "
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "쓰다. 사용하다 "
+  },
+  {
+    "word": "次",
+    "reading": "つぎ",
+    "meaning": "다음 "
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "책상 "
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "만들다 "
+  },
+  {
+    "word": "つもり",
+    "reading": "つもり",
+    "meaning": "(-할)생각 "
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning": "강하다. 세다 "
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "meaning": "손 "
+  },
+  {
+    "word": "テープ",
+    "reading": "テープ",
+    "meaning": "테이프 "
+  },
+  {
+    "word": "テーブル",
+    "reading": "テーブル",
+    "meaning": "테이블 "
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning": "편지 "
+  },
+  {
+    "word": "出口",
+    "reading": "でぐち",
+    "meaning": "출구 "
+  },
+  {
+    "word": "テスト",
+    "reading": "テスト",
+    "meaning": "테스트. 검사. 시험 "
+  },
+  {
+    "word": "デパート",
+    "reading": "デパート",
+    "meaning": "백화점 "
+  },
+  {
+    "word": "-*",
+    "reading": "でも",
+    "meaning": "-라도 "
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "나가다. 나오다 "
+  },
+  {
+    "word": "テレビ",
+    "reading": "テレビ",
+    "meaning": "텔레비전 "
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "날씨 "
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "전기. 전깃불 "
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaning": "전철 "
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "전화 "
+  },
+  {
+    "word": "ドア",
+    "reading": "ドア",
+    "meaning": "도어. 문 "
+  },
+  {
+    "word": "トイレ",
+    "reading": "トイレ",
+    "meaning": "화장실 "
+  },
+  {
+    "word": "どう",
+    "reading": "どう",
+    "meaning": "어떻게 "
+  },
+  {
+    "word": "どういたしまして",
+    "reading": "どういたしまして",
+    "meaning": "천만의 말씀입니다. 별 말씀을 다 하십니다 "
+  },
+  {
+    "word": "どうして",
+    "reading": "どうして",
+    "meaning": "어째서. 왜 "
+  },
+  {
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "meaning": "아무쪼록. 부디. 어서 (+…하세요) "
+  },
+  {
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning": "동물 "
+  },
+  {
+    "word": "どうも",
+    "reading": "どうも",
+    "meaning": "정말. 참. 매우 (+고마워요) "
+  },
+  {
+    "word": "十",
+    "reading": "とお",
+    "meaning": "열 개 "
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning": "멀다 "
+  },
+  {
+    "word": "十日",
+    "reading": "とおか",
+    "meaning": "10일 "
+  },
+  {
+    "word": "時々",
+    "reading": "ときどき",
+    "meaning": "가끔. 때때로 "
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaning": "시계 "
+  },
+  {
+    "word": "どこ",
+    "reading": "どこ",
+    "meaning": "어디 "
+  },
+  {
+    "word": "所",
+    "reading": "ところ",
+    "meaning": "곳. 장소 "
+  },
+  {
+    "word": "年",
+    "reading": "とし",
+    "meaning": "해. 나이 "
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "도서관 "
+  },
+  {
+    "word": "どちら",
+    "reading": "どちら",
+    "meaning": "어느 쪽 "
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning": "아주. 매우 "
+  },
+  {
+    "word": "どなた",
+    "reading": "どなた",
+    "meaning": "어느 분. 누구(경어) "
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning": "이웃. 옆 "
+  },
+  {
+    "word": "どの",
+    "reading": "どの",
+    "meaning": "어느  "
+  },
+  {
+    "word": "飛ぶ",
+    "reading": "とぶ",
+    "meaning": "날다 "
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "친구 "
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "meaning": "토요일 "
+  },
+  {
+    "word": "鳥",
+    "reading": "とり",
+    "meaning": "새 "
+  },
+  {
+    "word": "鳥肉",
+    "reading": "とりにく",
+    "meaning": "닭고기 "
+  },
+  {
+    "word": "撮る",
+    "reading": "とる",
+    "meaning": "(사진을) 찍다 "
+  },
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning": "어느 것 "
+  },
+  {
+    "word": "どんな",
+    "reading": "どんな",
+    "meaning": "어떤 "
+  },
+  {
+    "word": "ない",
+    "reading": "ない",
+    "meaning": "없다 "
+  },
+  {
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "meaning": "나이프. 칼 "
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "meaning": "가운데. 중. 안. 속 "
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "meaning": "길다. 오래다 "
+  },
+  {
+    "word": "なぜ",
+    "reading": "なぜ",
+    "meaning": "왜.어째서 "
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "meaning": "여름 "
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaning": "여름방학. 여름휴가 "
+  },
+  {
+    "word": "七",
+    "reading": "なな",
+    "meaning": "일곱 ＝しち "
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "meaning": "일곱 개 "
+  },
+  {
+    "word": "何",
+    "reading": "なに",
+    "meaning": "무엇 "
+  },
+  {
+    "word": "七日",
+    "reading": "なのか",
+    "meaning": "7일 "
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "이름 "
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "배우다 "
+  },
+  {
+    "word": "何",
+    "reading": "なん",
+    "meaning": "무엇. 몇- "
+  },
+  {
+    "word": "二",
+    "reading": "に",
+    "meaning": "이. 둘 "
+  },
+  {
+    "word": "にぎやかな",
+    "reading": "にぎやかな",
+    "meaning": "번화한. 활기찬 "
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "meaning": "고기 "
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "meaning": "서쪽 "
+  },
+  {
+    "word": "-日",
+    "reading": "にち",
+    "meaning": "-일 "
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meaning": "일요일 "
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "정원. 뜰. 마당 "
+  },
+  {
+    "word": "-人",
+    "reading": "にん",
+    "meaning": "-명 "
+  },
+  {
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "meaning": "넥타이 "
+  },
+  {
+    "word": "猫",
+    "reading": "ねこ",
+    "meaning": "고양이 "
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning": "자다 "
+  },
+  {
+    "word": "-年",
+    "reading": "ねん",
+    "meaning": "-년 "
+  },
+  {
+    "word": "ノート",
+    "reading": "ノート",
+    "meaning": "노트 "
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "meaning": "(산에) 올라가다 "
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "마실 것. 음료 "
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "마시다. (술을) 먹다. (약을) 복용하다 "
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meaning": "(-に+) 타다 "
+  },
+  {
+    "word": "はい",
+    "reading": "はい",
+    "meaning": "예. 네 "
+  },
+  {
+    "word": "入る",
+    "reading": "はいる",
+    "meaning": "(1G) 들어가다. 들어오다 "
+  },
+  {
+    "word": "葉書",
+    "reading": "はがき",
+    "meaning": "엽서 "
+  },
+  {
+    "word": "はく",
+    "reading": "はく",
+    "meaning": "(바지 치마를) 입다. (신발을) 신다 "
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "시작되다 "
+  },
+  {
+    "word": "はじめまして",
+    "reading": "はじめまして",
+    "meaning": "처음 뵙겠습니다 "
+  },
+  {
+    "word": "バス",
+    "reading": "バス",
+    "meaning": "버스 "
+  },
+  {
+    "word": "二十歳",
+    "reading": "はたち",
+    "meaning": "스무살 "
+  },
+  {
+    "word": "八",
+    "reading": "はち",
+    "meaning": "팔. 여덟 "
+  },
+  {
+    "word": "二十日",
+    "reading": "はつか",
+    "meaning": "20일 "
+  },
+  {
+    "word": "花",
+    "reading": "はな",
+    "meaning": "꽃 "
+  },
+  {
+    "word": "鼻",
+    "reading": "はな",
+    "meaning": "코 "
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "meaning": "이야기 "
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "이야기하다 "
+  },
+  {
+    "word": "母",
+    "reading": "はは",
+    "meaning": "(나의)어머니 "
+  },
+  {
+    "word": "早い/速い",
+    "reading": "はやい",
+    "meaning": "이르다. 빠르다 "
+  },
+  {
+    "word": "春",
+    "reading": "はる",
+    "meaning": "봄 "
+  },
+  {
+    "word": "パン",
+    "reading": "パン",
+    "meaning": "빵 "
+  },
+  {
+    "word": "-半",
+    "reading": "はん",
+    "meaning": "-반. 30분 "
+  },
+  {
+    "word": "ハンカチ",
+    "reading": "ハンカチ",
+    "meaning": "손수건 "
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning": "번호 "
+  },
+  {
+    "word": "晩御飯",
+    "reading": "ばんごはん",
+    "meaning": "저녁 식사 "
+  },
+  {
+    "word": "ハンサムな",
+    "reading": "ハンサムな",
+    "meaning": "잘생긴. 미남의 "
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "meaning": "동쪽 "
+  },
+  {
+    "word": "低い",
+    "reading": "ひくい",
+    "meaning": "낮다 "
+  },
+  {
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meaning": "비행기 "
+  },
+  {
+    "word": "左",
+    "reading": "ひだり",
+    "meaning": "왼쪽. 좌측 "
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "사람 "
+  },
+  {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meaning": "한 개 "
+  },
+  {
+    "word": "一人",
+    "reading": "ひとり",
+    "meaning": "한 사람 "
+  },
+  {
+    "word": "暇な",
+    "reading": "ひまな",
+    "meaning": "한가한 "
+  },
+  {
+    "word": "百",
+    "reading": "ひゃく",
+    "meaning": "백 "
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "병원 "
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "병 "
+  },
+  {
+    "word": "昼",
+    "reading": "ひる",
+    "meaning": "낮 "
+  },
+  {
+    "word": "昼御飯",
+    "reading": "ひるごはん",
+    "meaning": "점심 "
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning": "넓다 "
+  },
+  {
+    "word": "服",
+    "reading": "ふく",
+    "meaning": "옷. 양복 "
+  },
+  {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "meaning": "두 개 "
+  },
+  {
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "돼지고기 "
+  },
+  {
+    "word": "二人",
+    "reading": "ふたり",
+    "meaning": "두 사람 "
+  },
+  {
+    "word": "二日",
+    "reading": "ふつか",
+    "meaning": "2일 "
+  },
+  {
+    "word": "冬",
+    "reading": "ふゆ",
+    "meaning": "겨울 "
+  },
+  {
+    "word": "降る",
+    "reading": "ふる",
+    "meaning": "(비가) 내리다 "
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning": "오래되다. 낡다 "
+  },
+  {
+    "word": "下手な",
+    "reading": "へたな",
+    "meaning": "못하는. 서투른 "
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "meaning": "방 "
+  },
+  {
+    "word": "ペン",
+    "reading": "ペン",
+    "meaning": "펜 "
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "공부 "
+  },
+  {
+    "word": "便利な",
+    "reading": "べんりな",
+    "meaning": "편리한 "
+  },
+  {
+    "word": "方",
+    "reading": "ほう",
+    "meaning": "방면. 방향. 쪽 "
+  },
+  {
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning": "모자 "
+  },
+  {
+    "word": "ボールペン",
+    "reading": "ボールペン",
+    "meaning": "볼펜 "
+  },
+  {
+    "word": "他",
+    "reading": "ほか",
+    "meaning": "다른 것. 딴 것 "
+  },
+  {
+    "word": "他に",
+    "reading": "ほかに",
+    "meaning": "그밖에. 그외에 "
+  },
+  {
+    "word": "他の",
+    "reading": "ほかの",
+    "meaning": "다른 "
+  },
+  {
+    "word": "ポケット",
+    "reading": "ポケット",
+    "meaning": "포켓. 호주머니 "
+  },
+  {
+    "word": "欲しい",
+    "reading": "ほしい",
+    "meaning": "갖고 싶다 "
+  },
+  {
+    "word": "ボタン",
+    "reading": "ボタン",
+    "meaning": "단추. 버튼 "
+  },
+  {
+    "word": "ホテル",
+    "reading": "ホテル",
+    "meaning": "호텔 "
+  },
+  {
+    "word": "-本",
+    "reading": "ほん/-ぽん/-ぼん",
+    "meaning": "-자루. -개비. -병 "
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "책 "
+  },
+  {
+    "word": "-枚",
+    "reading": "まい",
+    "meaning": "-장 "
+  },
+  {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "meaning": "매일 아침. 아침마다 "
+  },
+  {
+    "word": "毎月",
+    "reading": "まいげつ",
+    "meaning": "매월 ＝まいつき "
+  },
+  {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "매주 "
+  },
+  {
+    "word": "毎月",
+    "reading": "まいつき",
+    "meaning": "매월 "
+  },
+  {
+    "word": "毎年",
+    "reading": "まいとし",
+    "meaning": "매년 "
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "매일 "
+  },
+  {
+    "word": "毎年",
+    "reading": "まいねん",
+    "meaning": "매년 ＝まいとし "
+  },
+  {
+    "word": "毎晩",
+    "reading": "まいばん",
+    "meaning": "매일 밤. 밤마다 "
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning": "앞. 전 "
+  },
+  {
+    "word": "曲がる",
+    "reading": "まがる",
+    "meaning": "구부러지다. (우측 좌측으로) 돌다 "
+  },
+  {
+    "word": "まずい",
+    "reading": "まずい",
+    "meaning": "맛없다 "
+  },
+  {
+    "word": "また",
+    "reading": "また",
+    "meaning": "또. 다시 "
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meaning": "아직 "
+  },
+  {
+    "word": "町",
+    "reading": "まち",
+    "meaning": "동네. 동. 시내 "
+  },
+  {
+    "word": "待つ",
+    "reading": "まつ",
+    "meaning": "기다리다 "
+  },
+  {
+    "word": "まっすぐ",
+    "reading": "まっすぐ",
+    "meaning": "쭉. 똑바로. 곧장. 직선으로 "
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "meaning": "창. 창문 "
+  },
+  {
+    "word": "丸い",
+    "reading": "まるい",
+    "meaning": "둥글다. 동그랗다 "
+  },
+  {
+    "word": "万",
+    "reading": "まん",
+    "meaning": "만 "
+  },
+  {
+    "word": "磨く",
+    "reading": "みがく",
+    "meaning": "닦다 "
+  },
+  {
+    "word": "右",
+    "reading": "みぎ",
+    "meaning": "오른쪽. 우측 "
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "meaning": "짧다 "
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "meaning": "물 "
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaning": "가게 "
+  },
+  {
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning": "보여주다 "
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "meaning": "길 "
+  },
+  {
+    "word": "三日",
+    "reading": "みっか",
+    "meaning": "3일 "
+  },
+  {
+    "word": "三つ",
+    "reading": "みっつ",
+    "meaning": "세 개 "
+  },
+  {
+    "word": "緑",
+    "reading": "みどり",
+    "meaning": "녹색 "
+  },
+  {
+    "word": "皆さん",
+    "reading": "みなさん",
+    "meaning": "여러분 "
+  },
+  {
+    "word": "南",
+    "reading": "みなみ",
+    "meaning": "남쪽 "
+  },
+  {
+    "word": "耳",
+    "reading": "みみ",
+    "meaning": "귀 "
+  },
+  {
+    "word": "見る",
+    "reading": "みる",
+    "meaning": "보다 "
+  },
+  {
+    "word": "みんな",
+    "reading": "みんな",
+    "meaning": "모두들 "
+  },
+  {
+    "word": "六日",
+    "reading": "むいか",
+    "meaning": "6일 "
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaning": "어렵다 "
+  },
+  {
+    "word": "六つ",
+    "reading": "むっつ",
+    "meaning": "여섯 개 "
+  },
+  {
+    "word": "目",
+    "reading": "め",
+    "meaning": "눈 "
+  },
+  {
+    "word": "眼鏡",
+    "reading": "めがね",
+    "meaning": "안경 "
+  },
+  {
+    "word": "もう",
+    "reading": "もう",
+    "meaning": "이미. 벌써 "
+  },
+  {
+    "word": "もう一度",
+    "reading": "もういちど",
+    "meaning": "한번 더. 다시 한번 "
+  },
+  {
+    "word": "木曜日",
+    "reading": "もくようび",
+    "meaning": "화요일 "
+  },
+  {
+    "word": "もしもし",
+    "reading": "もしもし",
+    "meaning": "여보세요 "
+  },
+  {
+    "word": "持つ",
+    "reading": "もつ",
+    "meaning": "들다. 가지다. 쥐다 "
+  },
+  {
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning": "더. 좀더. 더욱 "
+  },
+  {
+    "word": "物",
+    "reading": "もの",
+    "meaning": "물건 "
+  },
+  {
+    "word": "門",
+    "reading": "もん",
+    "meaning": "대문 "
+  },
+  {
+    "word": "問題",
+    "reading": "もんだい",
+    "meaning": "문제 "
+  },
+  {
+    "word": "八百屋",
+    "reading": "やおや",
+    "meaning": "야채 가게 "
+  },
+  {
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning": "야채. 채소 "
+  },
+  {
+    "word": "易しい",
+    "reading": "やさしい",
+    "meaning": "쉽다 "
+  },
+  {
+    "word": "優しい",
+    "reading": "やさしい",
+    "meaning": "상냥하다. 정답다 "
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "meaning": "싸다 "
+  },
+  {
+    "word": "休み",
+    "reading": "やすみ",
+    "meaning": "쉼. 휴식. 쉬는 시간. 휴일. 휴가 "
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning": "쉬다 "
+  },
+  {
+    "word": "八つ",
+    "reading": "やっつ",
+    "meaning": "여덟 개 "
+  },
+  {
+    "word": "山",
+    "reading": "やま",
+    "meaning": "산 "
+  },
+  {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "저녁때 "
+  },
+  {
+    "word": "夕御飯",
+    "reading": "ゆうごはん",
+    "meaning": "저녁 식사 "
+  },
+  {
+    "word": "夕飯",
+    "reading": "ゆうはん",
+    "meaning": "저녁 식사 ＝ゆうごはん "
+  },
+  {
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "우체국 "
+  },
+  {
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning": "눈 "
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "천천히. 푹(+쉬다) "
+  },
+  {
+    "word": "良い",
+    "reading": "よい",
+    "meaning": "좋다 ＝いい "
+  },
+  {
+    "word": "八日",
+    "reading": "ようか",
+    "meaning": "8일 "
+  },
+  {
+    "word": "洋服",
+    "reading": "ようふく",
+    "meaning": "양복 "
+  },
+  {
+    "word": "よく",
+    "reading": "よく",
+    "meaning": "(정도)잘. (빈도)자주 "
+  },
+  {
+    "word": "横",
+    "reading": "よこ",
+    "meaning": "옆. 가로. 측면 "
+  },
+  {
+    "word": "四日",
+    "reading": "よっか",
+    "meaning": "4일 "
+  },
+  {
+    "word": "四つ",
+    "reading": "よっつ",
+    "meaning": "네 개 "
+  },
+  {
+    "word": "予定",
+    "reading": "よてい",
+    "meaning": "예정 "
+  },
+  {
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "부르다 "
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "meaning": "읽다 "
+  },
+  {
+    "word": "夜",
+    "reading": "よる",
+    "meaning": "밤 "
+  },
+  {
+    "word": "よろしく",
+    "reading": "よろしく",
+    "meaning": "잘 (+부탁합니다) "
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning": "약하다 "
+  },
+  {
+    "word": "四",
+    "reading": "よん",
+    "meaning": "넷 ＝し "
+  },
+  {
+    "word": "ラーメン",
+    "reading": "ラーメン",
+    "meaning": "라면 "
+  },
+  {
+    "word": "来月",
+    "reading": "らいげつ",
+    "meaning": "다음달 "
+  },
+  {
+    "word": "来週",
+    "reading": "らいしゅう",
+    "meaning": "다음주 "
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "meaning": "내년 "
+  },
+  {
+    "word": "ラジオ",
+    "reading": "ラジオ",
+    "meaning": "라디오 "
+  },
+  {
+    "word": "留学生",
+    "reading": "りゅうがくせい",
+    "meaning": "유학생 "
+  },
+  {
+    "word": "両親",
+    "reading": "りょうしん",
+    "meaning": "부모 "
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "요리 "
+  },
+  {
+    "word": "レストラン",
+    "reading": "レストラン",
+    "meaning": "레스토랑 "
+  },
+  {
+    "word": "六",
+    "reading": "ろく",
+    "meaning": "육. 여섯 "
+  },
+  {
+    "word": "分かる",
+    "reading": "わかる",
+    "meaning": "알다. 이해하다 "
+  },
+  {
+    "word": "私",
+    "reading": "わたし",
+    "meaning": "저 "
+  },
+  {
+    "word": "悪い",
+    "reading": "わるい",
+    "meaning": "나쁘다 "
+  }
+]
